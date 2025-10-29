@@ -1,0 +1,28 @@
+# Core
+openai
+pydantic
+python-dotenv
+langgraph-cli
+langgraph-api
+
+# Image processing
+opencv-python
+pyzbar
+qrcode
+matplotlib
+numpy>=1.26.4
+
+# G-code generation
+svgwrite==1.4.3
+svgpathtools==1.6.1
+svg2gcode==3.2.3
+cairosvg
+
+pyserial
+websocket-client
+asyncua
+fastapi
+python-multipart
+opcua 
+streamlit
+requests
